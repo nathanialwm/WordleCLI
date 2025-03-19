@@ -1,2 +1,2 @@
-python -m venv .venv
-pip install Flask
+Flask
+requests
